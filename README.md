@@ -5,6 +5,6 @@
 
 # About Me 👩
 
--📱 Android Developer
--😃 UI/UX Designer
--📝 Open Source Contributor
+- 📱 Android Developer
+- 😃 UI/UX Designer
+- 📝 Open Source Contributor
