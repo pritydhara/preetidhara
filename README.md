@@ -10,8 +10,14 @@
 - 📝 Open Source Contributor
 
 ## Languages and Tools
+<p>
+  <img src="https://img.shields.io/badge/kotlin-%23F5792A.svg?&style=for-the-badge&logo=kotlin&logoColor=blue"/>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobe%20xd%20-%23E4405F.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=black"/>
 
-
+</p>
 
 ## Reach me via 👇
 <p>
