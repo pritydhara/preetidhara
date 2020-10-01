@@ -8,7 +8,8 @@
 - 📱 Android Developer
 - 😃 UI/UX Designer
 - 📝 Open Source Contributor
-
+- 😄 Pronouns: She/Her
+- 🎉 Fun-Fact: I ❤️ travelling and listening music . I love reading books and I love food a lot!
 ## Languages and Tools
 <p>
   <img src="https://img.shields.io/badge/kotlin-%23F5792A.svg?&style=for-the-badge&logo=kotlin&logoColor=blue"/>
