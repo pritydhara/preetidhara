@@ -3,7 +3,7 @@
 ### A Passionate Android Developer & UI/UX Designer
 
 
-# About Me 🤷🏻‍♂️
+# About Me 👩
 
 <!--
 **preetidhara/preetidhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
